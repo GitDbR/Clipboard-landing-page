@@ -39,7 +39,7 @@ main {
     top: -250px;
 }
 
-/*intro section*/
+/*-----------intro section-------------*/
 
 
 
@@ -95,7 +95,6 @@ main {
     color: var(--Dark-Grayish-Blue);
 }
 
-/*-------------secondary-features-block----------*/
 
 /*--------------companies-block----------------*/
 
@@ -187,7 +186,6 @@ footer {
     }
 
 
-
     main {
         top: 140px;
     }
@@ -255,6 +253,8 @@ footer {
         box-shadow: 0px 2px 7px var(--Light-Blue);
 
     }
+
+    /*----------features Section------------*/
 
 
     .main__features-block {
